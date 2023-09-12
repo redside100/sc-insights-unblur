@@ -1,7 +1,7 @@
 ## Installing for Chrome
 
-- Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-- View the raw source of the script [here]().
-- Click the install button.
+- Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- View the raw source of the script [here](https://github.com/redside100/sc-insights-unblur/raw/main/insights-unblur.user.js)
+- Click the install button
 
-If a new Tampermonkey installtion tab did not appear, you can copy the source and paste it as a new userscript on the Tampermonkey dashboard.
+If a new Tampermonkey installtion tab didn't appear, you can copy paste the source as a new userscript on the Tampermonkey dashboard
