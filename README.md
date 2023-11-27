@@ -4,4 +4,4 @@
 - View the raw source of the script [here](https://github.com/redside100/sc-insights-unblur/raw/main/insights-unblur.user.js)
 - Click the install button
 
-If a new Tampermonkey installtion tab didn't appear, you can copy paste the source as a new userscript on the Tampermonkey dashboard
+If a new Tampermonkey installation tab didn't appear, you can copy paste the source as a new userscript on the Tampermonkey dashboard
